@@ -118,7 +118,7 @@ WOLFBOT comes packed with a wide range of features:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sil3nt-wolf/silentwolf.git
+git clone https://github.com/WOLFTECH254/wolf-bot.git
 cd silentwolf
 ```
 
@@ -175,8 +175,8 @@ WOLFBOT runs on all major platforms:
 
 - 🌍 [Deploy WOLFBOT](https://inspiring-genie-ebae09.netlify.app/)
 - 🔑 [Get Session Pair Code](https://7-w.vercel.app/wolf.html)
-- 📦 [Download ZIP](https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip)
-- 🐙 [GitHub Repository](https://github.com/sil3nt-wolf/silentwolf)
+- 📦 [Download ZIP](https://github.com/WOLFTECH254/wolf-bot.git/archive/refs/heads/main.zip)
+- 🐙 [GitHub Repository](https://github.com/WOLFTECH254/wolf-bot.git)
 
 ---
 
