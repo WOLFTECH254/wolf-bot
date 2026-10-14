@@ -39,15 +39,15 @@
 
 **DOWNLOAD ZIP**
 <br>
-<a href="https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip" target="_blank">
+<a href="https://github.com/WOLFTECH254/wolf-bot/archive/refs/heads/main.zip" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkgreen" alt="Download zip"/>
 </a>
 
 <br>
 
-![GitHub stars](https://img.shields.io/github/stars/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub forks](https://img.shields.io/github/forks/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/sil3nt-wolf/silentwolf?style=for-the-badge&color=darkgreen)
+![GitHub stars](https://img.shields.io/github/stars/WOLFTECH254/wolf-bot?style=for-the-badge&color=darkgreen)
+![GitHub forks](https://img.shields.io/github/forks/WOLFTECH254/wolf-bot?style=for-the-badge&color=darkgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/WOLFTECH254/wolf-bot?style=for-the-badge&color=darkgreen)
 
 </div>
 
